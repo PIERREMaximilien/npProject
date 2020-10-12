@@ -40,9 +40,11 @@ Comme un bon travail découle d'une bonne préparation, voici quelques étapes �
 
 ### Technos
 
-**Back :** NodeJs ou PHP POO
+**Back :** `NodeJs`
+**Database :** `...`
 
-**Front :** Tout est permis 
+**Front :** `...`
+	    `...`
 
 ### A retrouver dans votre projet
 
