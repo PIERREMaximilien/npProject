@@ -40,10 +40,12 @@ Comme un bon travail découle d'une bonne préparation, voici quelques étapes �
 
 ### Technos
 
-* Back: - `NodeJs`
+* Back : 
+	- `NodeJs`
 	- `...`
 
-* Front - `...`
+* Front :
+	- `...`
 	- `...`
 
 ### A retrouver dans votre projet
