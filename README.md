@@ -60,7 +60,8 @@ Présentation du projet : 5-7 minutes
 - Vendredi 30/10 : Melissa
 - Vendredi 13/11 : Mathieu
 
-![AlumniHome](https://user-images.githubusercontent.com/66436868/95850344-f8f0af80-0d50-11eb-82fc-b4a6c0bda36f.jpg)
+
+![AlumniHome](https://user-images.githubusercontent.com/66436868/95851520-9f898000-0d52-11eb-895b-d6938f9f0041.jpg)
 
 ![AlumniAbout](https://user-images.githubusercontent.com/66436868/95850360-0312ae00-0d51-11eb-943c-7d49dd8c5c00.jpg)
 
