@@ -1,17 +1,12 @@
 # npProject
 
-- Repository: `OOP`
-- Type de challenge:  `Consolidation`
+- Start: `12/10/20`
 - Durée: `4 semaines`
-- Deadline: `16/11/20 9 A.M.`
-- Déploiement :
-	- Github page
-	- Heroku
-- Team challenge :  `solo`
+- Team: `Maximilien`
 
 ## La Mission
 
-Voici les thèmes proposés :
+Création d'un site dynamique parmi les thèmes proposés :
 
 - Événementiel 
 - Portail actualités
@@ -50,12 +45,10 @@ Voici les thèmes proposés :
 ### Technos
 
 * Back : 
-	- `NodeJs`
-	- `...`
-
+	- NodeJs
+	- Postgresql
 * Front :
-	- `...`
-	- `...`
+	- Boostrap
 
 ## Présentation
 
