@@ -64,7 +64,7 @@ Présentation du projet : 5-7 minutes
 
 ![AlumniAbout](https://user-images.githubusercontent.com/66436868/95850360-0312ae00-0d51-11eb-943c-7d49dd8c5c00.jpg)
 
-![AlumniCommunity (2)](https://user-images.githubusercontent.com/66436868/95850631-70264380-0d51-11eb-908e-a076a9c6b852.jpg)
+![AlumniCommunity](https://user-images.githubusercontent.com/66436868/95851123-1bcf9380-0d52-11eb-89a9-ea3f6eff6b35.jpg)
 
 ![AlumniCompagny](https://user-images.githubusercontent.com/66436868/95850440-24739a00-0d51-11eb-8c22-700273732857.jpg)
 
