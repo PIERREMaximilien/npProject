@@ -21,17 +21,7 @@ client.connect()
 .catch(error => console.error(error))
 .finally(() => client.end());
 
-
-/* mongoose.connect(
-    "mongodb+srv://admin:123Banane!@clustertest.fgsnt.mongodb.net/npProject?retryWrites=true&w=majority",
-    { useCreateIndex: true, useNewUrlParser: true, useUnifiedTopology: true }
-  )
-  .then(() => console.log("Connected to database"))
-  .catch(() => console.log("Fail to connect to database"));
-*/
-
 const app = express();
-
 
 app.use((req, res, next) => {
   res.setHeader("Access-Control-Allow-Origin", "*");
